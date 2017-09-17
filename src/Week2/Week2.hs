@@ -1,6 +1,6 @@
-module Week2 where
+module Week2.Week2 where
 
-import Log
+import Week2.Log
 
 -- Week 2
 

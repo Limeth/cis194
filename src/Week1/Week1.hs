@@ -1,4 +1,4 @@
-module Week1 (validate, hanoi) where
+module Week1.Week1 (validate, hanoi) where
 
 -- Week 1
 
